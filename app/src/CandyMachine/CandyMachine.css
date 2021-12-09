@@ -1,11 +1,13 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .gif-container {
   display: flex;
   flex-direction: column;
+  width: 80%;
 }
 
 .gif-grid {

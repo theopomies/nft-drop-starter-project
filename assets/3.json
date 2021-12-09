@@ -1,0 +1,19 @@
+{
+  "name": "La colline brule",
+  "symbol": "",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "ATTXZwdbPd9NX1Q82b1dPPuCxvZeBaexxtBy1c9X18Bm",
+        "share": 100
+      }
+    ]
+  }
+}
